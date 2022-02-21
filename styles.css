@@ -1,0 +1,18 @@
+h2 {
+    text-align: center;
+}
+
+.collection {
+    display: flex;
+    flex-wrap: wrap;
+}
+.menuItem {
+    background-color: pink;
+    max-width: 300px;
+    margin: 10px;
+    text-align: center;
+}
+
+.menuItem img {
+    max-width: 300px;
+}
